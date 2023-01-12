@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e4b424a-22bb-499e-a7b1-b7d657a0e89e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/laba4/CSVList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/laba4/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/laba4/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/laba4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/laba4/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
